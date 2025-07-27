@@ -1,0 +1,12 @@
+.new{
+    background-color: yellow;
+    margin: 5px;
+    padding: 10px;   
+    border: 2px dotted blue;
+    display: inline-block;
+
+}
+.new2{
+    visibility: hidden;
+}
+

@@ -1,0 +1,46 @@
+body{
+     background-image: url('5.jpg');
+    
+} 
+h1{
+    text-align: center;
+    font-size: 400%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkblue;
+}
+p{
+    background-color:bisque ;
+    color:red ;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+} 
+
+}  
+nav a:hover{
+    color: red;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: end;
+    background-color: lightblue;
+} 
+li{
+    margin-left: 40px;
+    font-size: 200%;
+}
+footer{
+    text-align:center;
+    padding: 10px;
+    background-color: lightgray;    
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+h2{
+    font-size: 300%;
+    font-weight: 400;
+    color: yellow;
+    text-align: center;
+    
+}
